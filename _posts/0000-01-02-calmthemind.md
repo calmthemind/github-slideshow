@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Redacte oiga usté
+Conchatumare q instrucciones
 Use the left arrow to go back!
